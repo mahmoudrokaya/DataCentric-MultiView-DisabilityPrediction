@@ -1,0 +1,11 @@
+# Candidate dependencies only; inspect imports and lock tested versions before release.
+# numpy
+# pandas
+# scipy
+# scikit-learn
+# matplotlib
+# seaborn
+# catboost
+# xgboost
+# joblib
+# pyyaml

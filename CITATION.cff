@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this experimental evidence, please cite the associated research article and archived release."
+title: "Data-Centric Multi-View Disability Risk Prediction — Experimental Evidence"
+type: software
+authors:
+  - family-names: Rokaya
+    given-names: Mahmoud
+# TODO: Confirm the complete author list, repository URL, version, publication date, and DOI.
+# Do not invent a DOI before a release has been archived.

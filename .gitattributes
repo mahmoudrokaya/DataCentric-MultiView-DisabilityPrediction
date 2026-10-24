@@ -1,0 +1,14 @@
+* text=auto
+*.csv text
+*.tsv text
+*.py text
+*.ipynb text
+*.json text
+*.md text
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.joblib binary
+*.pkl binary
+*.parquet binary
+*.xlsx binary

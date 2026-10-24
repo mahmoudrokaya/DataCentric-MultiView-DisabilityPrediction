@@ -1,0 +1,25 @@
+{
+  "scanned_at_utc": "2026-10-24T01:13:56.593452+00:00",
+  "repository": "E:\\47\\472\\New_Papers\\A Data-Centric Structural Biomedical Signal Processing and Control_Submitted\\Final\\A Data-Centric Machine Learning Framework_Diagnostics\\Modified 2\\New_Experiments\\Collected",
+  "experimental_files": 591,
+  "experimental_directories": 45,
+  "total_bytes": 2334164058,
+  "by_top_level_folder": {
+    "Codes": 51,
+    "Data": 25,
+    "Results": 513,
+    "_Inventory": 2
+  },
+  "by_inferred_type": {
+    "code": 51,
+    "data_or_result": 416,
+    "figure": 23,
+    "metadata_or_result": 46,
+    "model": 29,
+    "other": 4,
+    "text": 22
+  },
+  "sha256_calculated": true,
+  "errors": [],
+  "note": "Inventory only; no experiment execution or metric verification."
+}
