@@ -1,0 +1,106 @@
+﻿variable,label,wave,year,dtype,missing_count,missing_rate,n_unique,domains
+r2grossa,"r2grossa:w2 walk1/r,clim1,bed,bath/0-5",2.0,1994.0,float64,33814,0.7475350400141486,6,functional_target_candidates
+r3grossa,"r3grossa:w3 walk1/r,clim1,bed,bath/0-5",3.0,1996.0,float64,27279,0.6030640668523677,6,functional_target_candidates
+r4grossa,"r4grossa:w4 walk1/r,clim1,bed,bath/0-5",4.0,1998.0,float64,23875,0.5278109386744484,6,functional_target_candidates
+r5grossa,"r5grossa:w5 walk1/r,clim1,bed,bath/0-5",5.0,2000.0,float64,25680,0.5677145510014591,6,functional_target_candidates
+r6grossa,"r6grossa:w6 walk1/r,clim1,bed,bath/0-5",6.0,2002.0,float64,27076,0.598576292169607,6,functional_target_candidates
+r7grossa,"r7grossa:w7 walk1/r,clim1,bed,bath/0-5",7.0,2004.0,float64,25116,0.5552460538532962,6,functional_target_candidates
+r8grossa,"r8grossa:w8 walk1/r,clim1,bed,bath/0-5",8.0,2006.0,float64,26772,0.5918556837776894,6,functional_target_candidates
+r9grossa,"r9grossa:w9 walk1/r,clim1,bed,bath/0-5",9.0,2008.0,float64,28025,0.6195560861299023,6,functional_target_candidates
+r10grossa,"r10grossa:w10 walk1/r,clim1,bed,bath/0-5",10.0,2010.0,float64,23328,0.5157182650218862,6,functional_target_candidates
+r11grossa,"r11grossa:w11 walk1/r,clim1,bed,bath/0-5",11.0,2012.0,float64,24698,0.5460052173144095,6,functional_target_candidates
+r12grossa,"r12grossa:w12 walk1/r,clim1,bed,bath/0-5",12.0,2014.0,float64,26502,0.585886722376973,6,functional_target_candidates
+r13grossa,"r13grossa:w13 walk1/r,clim1,bed,bath/0-5",13.0,2016.0,float64,24358,0.5384887474023964,6,functional_target_candidates
+r14grossa,"r14grossa:w14 walk1/r,clim1,bed,bath/0-5",14.0,2018.0,float64,28114,0.621523632665694,6,functional_target_candidates
+r15grossa,"r15grossa:w15 walk1/r,clim1,bed,bath/0-5",15.0,2020.0,float64,29584,0.654021311402927,6,functional_target_candidates
+r16grossa,"r16grossa:w16 walk1/r,clim1,bed,bath/0-5",16.0,2022.0,float64,29441,0.6508599725869921,6,functional_target_candidates
+r2mobila,r2mobila:w2 any diff-sum of mobility measures /0-5,2.0,1994.0,float64,33827,0.747822434451961,6,functional_target_candidates
+r3mobila,r3mobila:w3 any diff-sum of mobility measures /0-5,3.0,1996.0,float64,27285,0.6031967104390503,6,functional_target_candidates
+r4mobila,r4mobila:w4 any diff-sum of mobility measures /0-5,4.0,1998.0,float64,23882,0.5279656895255781,6,functional_target_candidates
+r5mobila,r5mobila:w5 any diff-sum of mobility measures /0-5,5.0,2000.0,float64,25693,0.5680019454392713,6,functional_target_candidates
+r6mobila,r6mobila:w6 any diff-sum of mobility measures /0-5,6.0,2002.0,float64,27083,0.5987310430207367,6,functional_target_candidates
+r7mobila,r7mobila:w7 any diff-sum of mobility measures /0-5,7.0,2004.0,float64,25127,0.5554892337622143,6,functional_target_candidates
+r8mobila,r8mobila:w8 any diff-sum of mobility measures /0-5,8.0,2006.0,float64,26780,0.5920325418932662,6,functional_target_candidates
+r9mobila,r9mobila:w9 any diff-sum of mobility measures /0-5,9.0,2008.0,float64,28029,0.6196445151876907,6,functional_target_candidates
+r10mobila,r10mobila:w10 any diff-sum of mobility measures /0-5,10.0,2010.0,float64,23331,0.5157845868152274,6,functional_target_candidates
+r11mobila,r11mobila:w11 any diff-sum of mobility measures /0-5,11.0,2012.0,float64,24699,0.5460273245788566,6,functional_target_candidates
+r12mobila,r12mobila:w12 any diff-sum of mobility measures /0-5,12.0,2014.0,float64,26503,0.5859088296414202,6,functional_target_candidates
+r13mobila,r13mobila:w13 any diff-sum of mobility measures /0-5,13.0,2016.0,float64,24362,0.5385771764601848,6,functional_target_candidates
+r14mobila,r14mobila:w14 any diff-sum of mobility measures /0-5,14.0,2018.0,float64,28114,0.621523632665694,6,functional_target_candidates
+r15mobila,r15mobila:w15 any diff-sum of mobility measures /0-5,15.0,2020.0,float64,29585,0.6540434186673741,6,functional_target_candidates
+r16mobila,r16mobila:w16 any diff-sum of mobility measures /0-5,16.0,2022.0,float64,29441,0.6508599725869921,6,functional_target_candidates
+r2lgmusa,r2lgmusa:w2 any diff-sum of large muscle measures /0-4,2.0,1994.0,float64,33815,0.7475571472785958,5,functional_target_candidates
+r3lgmusa,r3lgmusa:w3 any diff-sum of large muscle measures /0-4,3.0,1996.0,float64,27288,0.6032630322323915,5,functional_target_candidates
+r4lgmusa,r4lgmusa:w4 any diff-sum of large muscle measures /0-4,4.0,1998.0,float64,23889,0.5281204403767078,5,functional_target_candidates
+r5lgmusa,r5lgmusa:w5 any diff-sum of large muscle measures /0-4,5.0,2000.0,float64,25690,0.5679356236459301,5,functional_target_candidates
+r6lgmusa,r6lgmusa:w6 any diff-sum of large muscle measures /0-4,6.0,2002.0,float64,27083,0.5987310430207367,5,functional_target_candidates
+r7lgmusa,r7lgmusa:w7 any diff-sum of large muscle measures /0-4,7.0,2004.0,float64,25132,0.5555997700844497,5,functional_target_candidates
+r8lgmusa,r8lgmusa:w8 any diff-sum of large muscle measures /0-4,8.0,2006.0,float64,26777,0.5919662200999248,5,functional_target_candidates
+r9lgmusa,r9lgmusa:w9 any diff-sum of large muscle measures /0-4,9.0,2008.0,float64,28031,0.6196887297165848,5,functional_target_candidates
+r10lgmusa,r10lgmusa:w10 any diff-sum of large muscle measures /0-4,10.0,2010.0,float64,23336,0.515895123137463,5,functional_target_candidates
+r11lgmusa,r11lgmusa:w11 any diff-sum of large muscle measures /0-4,11.0,2012.0,float64,24701,0.5460715391077509,5,functional_target_candidates
+r12lgmusa,r12lgmusa:w12 any diff-sum of large muscle measures /0-4,12.0,2014.0,float64,26506,0.5859751514347614,5,functional_target_candidates
+r13lgmusa,r13lgmusa:w13 any diff-sum of large muscle measures /0-4,13.0,2016.0,float64,24361,0.5385550691957377,5,functional_target_candidates
+r14lgmusa,r14lgmusa:w14 any diff-sum of large muscle measures /0-4,14.0,2018.0,float64,28116,0.6215678471945881,5,functional_target_candidates
+r15lgmusa,r15lgmusa:w15 any diff-sum of large muscle measures /0-4,15.0,2020.0,float64,29585,0.6540434186673741,5,functional_target_candidates
+r16lgmusa,r16lgmusa:w16 any diff-sum of large muscle measures /0-4,16.0,2022.0,float64,29446,0.6509705089092276,5,functional_target_candidates
+r3iadl5a,r3iadl5a:w3 any diff-sum of iadls /0-5,3.0,1996.0,float64,27283,0.6031524959101561,6,functional_target_candidates
+r4iadl5a,r4iadl5a:w4 any diff-sum of iadls /0-5,4.0,1998.0,float64,23881,0.527943582261131,6,functional_target_candidates
+r5iadl5a,r5iadl5a:w5 any diff-sum of iadls /0-5,5.0,2000.0,float64,25682,0.5677587655303533,6,functional_target_candidates
+r6iadl5a,r6iadl5a:w6 any diff-sum of iadls /0-5,6.0,2002.0,float64,27076,0.598576292169607,6,functional_target_candidates
+r7iadl5a,r7iadl5a:w7 any diff-sum of iadls /0-5,7.0,2004.0,float64,25118,0.5552902683821904,6,functional_target_candidates
+r8iadl5a,r8iadl5a:w8 any diff-sum of iadls /0-5,8.0,2006.0,float64,26774,0.5918998983065835,6,functional_target_candidates
+r9iadl5a,r9iadl5a:w9 any diff-sum of iadls /0-5,9.0,2008.0,float64,28027,0.6196003006587965,6,functional_target_candidates
+r10iadl5a,r10iadl5a:w10 any diff-sum of iadls /0-5,10.0,2010.0,float64,23339,0.5159614449308043,6,functional_target_candidates
+r11iadl5a,r11iadl5a:w11 any diff-sum of iadls /0-5,11.0,2012.0,float64,24698,0.5460052173144095,6,functional_target_candidates
+r12iadl5a,r12iadl5a:w12 any diff-sum of iadls /0-5,12.0,2014.0,float64,26504,0.5859309369058673,6,functional_target_candidates
+r13iadl5a,r13iadl5a:w13 any diff-sum of iadls /0-5,13.0,2016.0,float64,24360,0.5385329619312906,6,functional_target_candidates
+r14iadl5a,r14iadl5a:w14 any diff-sum of iadls /0-5,14.0,2018.0,float64,28120,0.6216562762523765,6,functional_target_candidates
+r15iadl5a,r15iadl5a:w15 any diff-sum of iadls /0-5,15.0,2020.0,float64,29588,0.6541097404607153,6,functional_target_candidates
+r16iadl5a,r16iadl5a:w16 any diff-sum of iadls /0-5,16.0,2022.0,float64,29447,0.6509926161736747,6,functional_target_candidates
+r2iadl5a,r2iadl5a:w2 any diff-sum of iadls /0-5,2.0,1994.0,float64,37013,0.8182561789804129,6,functional_target_candidates
+r2finea,r2finea:w2 dime/eat/dress /0-3,2.0,1994.0,float64,25593,0.5657912189945616,4,functional_target_candidates
+r3finea,r3finea:w3 dime/eat/dress /0-3,3.0,1996.0,float64,27280,0.6030861741168148,4,functional_target_candidates
+r4finea,r4finea:w4 dime/eat/dress /0-3,4.0,1998.0,float64,23878,0.5278772604677897,4,functional_target_candidates
+r5finea,r5finea:w5 dime/eat/dress /0-3,5.0,2000.0,float64,25680,0.5677145510014591,4,functional_target_candidates
+r6finea,r6finea:w6 dime/eat/dress /0-3,6.0,2002.0,float64,27077,0.598598399434054,4,functional_target_candidates
+r7finea,r7finea:w7 dime/eat/dress /0-3,7.0,2004.0,float64,25115,0.5552239465888491,4,functional_target_candidates
+r8finea,r8finea:w8 dime/eat/dress /0-3,8.0,2006.0,float64,26773,0.5918777910421364,4,functional_target_candidates
+r9finea,r9finea:w9 dime/eat/dress /0-3,9.0,2008.0,float64,28026,0.6195781933943494,4,functional_target_candidates
+r10finea,r10finea:w10 dime/eat/dress /0-3,10.0,2010.0,float64,23332,0.5158066940796746,4,functional_target_candidates
+r11finea,r11finea:w11 dime/eat/dress /0-3,11.0,2012.0,float64,24698,0.5460052173144095,4,functional_target_candidates
+r12finea,r12finea:w12 dime/eat/dress /0-3,12.0,2014.0,float64,26504,0.5859309369058673,4,functional_target_candidates
+r13finea,r13finea:w13 dime/eat/dress /0-3,13.0,2016.0,float64,24359,0.5385108546668436,4,functional_target_candidates
+r14finea,r14finea:w14 dime/eat/dress /0-3,14.0,2018.0,float64,28114,0.621523632665694,4,functional_target_candidates
+r15finea,r15finea:w15 dime/eat/dress /0-3,15.0,2020.0,float64,29585,0.6540434186673741,4,functional_target_candidates
+r16finea,r16finea:w16 dime/eat/dress /0-3,16.0,2022.0,float64,29448,0.6510147234381217,4,functional_target_candidates
+r2adl5a,r2adl5a:w2 any diff-sum of adls /0-5,2.0,1994.0,float64,25593,0.5657912189945616,6,functional_target_candidates
+r3adl5a,r3adl5a:w3 any diff-sum of adls /0-5,3.0,1996.0,float64,27281,0.6031082813812619,6,functional_target_candidates
+r4adl5a,r4adl5a:w4 any diff-sum of adls /0-5,4.0,1998.0,float64,23878,0.5278772604677897,6,functional_target_candidates
+r5adl5a,r5adl5a:w5 any diff-sum of adls /0-5,5.0,2000.0,float64,25680,0.5677145510014591,6,functional_target_candidates
+r6adl5a,r6adl5a:w6 any diff-sum of adls /0-5,6.0,2002.0,float64,27076,0.598576292169607,6,functional_target_candidates
+r7adl5a,r7adl5a:w7 any diff-sum of adls /0-5,7.0,2004.0,float64,25115,0.5552239465888491,6,functional_target_candidates
+r8adl5a,r8adl5a:w8 any diff-sum of adls /0-5,8.0,2006.0,float64,26774,0.5918998983065835,6,functional_target_candidates
+r9adl5a,r9adl5a:w9 any diff-sum of adls /0-5,9.0,2008.0,float64,28026,0.6195781933943494,6,functional_target_candidates
+r10adl5a,r10adl5a:w10 any diff-sum of adls /0-5,10.0,2010.0,float64,23333,0.5158288013441217,6,functional_target_candidates
+r11adl5a,r11adl5a:w11 any diff-sum of adls /0-5,11.0,2012.0,float64,24699,0.5460273245788566,6,functional_target_candidates
+r12adl5a,r12adl5a:w12 any diff-sum of adls /0-5,12.0,2014.0,float64,26504,0.5859309369058673,6,functional_target_candidates
+r13adl5a,r13adl5a:w13 any diff-sum of adls /0-5,13.0,2016.0,float64,24358,0.5384887474023964,6,functional_target_candidates
+r14adl5a,r14adl5a:w14 any diff-sum of adls /0-5,14.0,2018.0,float64,28114,0.621523632665694,6,functional_target_candidates
+r15adl5a,r15adl5a:w15 any diff-sum of adls /0-5,15.0,2020.0,float64,29586,0.6540655259318212,6,functional_target_candidates
+r16adl5a,r16adl5a:w16 any diff-sum of adls /0-5,16.0,2022.0,float64,29448,0.6510147234381217,6,functional_target_candidates
+r2adl6a,r2adl6a:w2 any diff-sum of adls /0-6,2.0,1994.0,float64,37013,0.8182561789804129,7,functional_target_candidates
+r3adl6a,r3adl6a:w3 any diff-sum of adls /0-6,3.0,1996.0,float64,27281,0.6031082813812619,7,functional_target_candidates
+r4adl6a,r4adl6a:w4 any diff-sum of adls /0-6,4.0,1998.0,float64,23878,0.5278772604677897,7,functional_target_candidates
+r5adl6a,r5adl6a:w5 any diff-sum of adls /0-6,5.0,2000.0,float64,25680,0.5677145510014591,7,functional_target_candidates
+r6adl6a,r6adl6a:w6 any diff-sum of adls /0-6,6.0,2002.0,float64,27076,0.598576292169607,7,functional_target_candidates
+r7adl6a,r7adl6a:w7 any diff-sum of adls /0-6,7.0,2004.0,float64,25115,0.5552239465888491,7,functional_target_candidates
+r8adl6a,r8adl6a:w8 any diff-sum of adls /0-6,8.0,2006.0,float64,26774,0.5918998983065835,7,functional_target_candidates
+r9adl6a,r9adl6a:w9 any diff-sum of adls /0-6,9.0,2008.0,float64,28026,0.6195781933943494,7,functional_target_candidates
+r10adl6a,r10adl6a:w10 any diff-sum of adls /0-6,10.0,2010.0,float64,23333,0.5158288013441217,7,functional_target_candidates
+r11adl6a,r11adl6a:w11 any diff-sum of adls /0-6,11.0,2012.0,float64,24699,0.5460273245788566,7,functional_target_candidates
+r12adl6a,r12adl6a:w12 any diff-sum of adls /0-6,12.0,2014.0,float64,26504,0.5859309369058673,7,functional_target_candidates
+r13adl6a,r13adl6a:w13 any diff-sum of adls /0-6,13.0,2016.0,float64,24358,0.5384887474023964,7,functional_target_candidates
+r14adl6a,r14adl6a:w14 any diff-sum of adls /0-6,14.0,2018.0,float64,28114,0.621523632665694,7,functional_target_candidates
+r15adl6a,r15adl6a:w15 any diff-sum of adls /0-6,15.0,2020.0,float64,29586,0.6540655259318212,7,functional_target_candidates
+r16adl6a,r16adl6a:w16 any diff-sum of adls /0-6,16.0,2022.0,float64,29448,0.6510147234381217,7,functional_target_candidates

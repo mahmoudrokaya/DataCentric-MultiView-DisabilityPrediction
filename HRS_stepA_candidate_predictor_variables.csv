@@ -1,0 +1,437 @@
+﻿variable,label,wave,year,dtype,missing_count,missing_rate,n_unique,domains
+r1mstat,r1mstat:w1 r marital status,1.0,1992.0,float64,32582,0.7202988902153248,7,demographic
+r2mstat,r2mstat:w2 r marital status,2.0,1994.0,float64,25592,0.5657691117301146,8,demographic
+r3mstat,r3mstat:w3 r marital status,3.0,1996.0,float64,27306,0.6036609629924393,6,demographic
+r4mstat,r4mstat:w4 r marital status,4.0,1998.0,float64,23874,0.5277888314100013,7,demographic
+r5mstat,r5mstat:w5 r marital status,5.0,2000.0,float64,25676,0.5676261219436707,8,demographic
+r6mstat,r6mstat:w6 r marital status,6.0,2002.0,float64,27084,0.5987531502851837,8,demographic
+r7mstat,r7mstat:w7 r marital status,7.0,2004.0,float64,25120,0.5553344829110846,7,demographic
+r8mstat,r8mstat:w8 r marital status,8.0,2006.0,float64,26767,0.5917451474554538,8,demographic
+r9mstat,r9mstat:w9 r marital status,9.0,2008.0,float64,28019,0.6194234425432197,8,demographic
+r10mstat,r10mstat:w10 r marital status,10.0,2010.0,float64,23206,0.5130211787593403,8,demographic
+r11mstat,r11mstat:w11 r marital status,11.0,2012.0,float64,24696,0.5459610027855153,7,demographic
+r12mstat,r12mstat:w12 r marital status,12.0,2014.0,float64,26506,0.5859751514347614,7,demographic
+r13mstat,r13mstat:w13 r marital status,13.0,2016.0,float64,24354,0.538400318344608,7,demographic
+r14mstat,r14mstat:w14 r marital status,14.0,2018.0,float64,28114,0.621523632665694,7,demographic
+r15mstat,r15mstat:w15 r marital status,15.0,2020.0,float64,29549,0.6532475571472786,7,demographic
+r16mstat,r16mstat:w16 r marital status,16.0,2022.0,float64,29418,0.6503515055047089,7,demographic
+ragender,ragender: r gender,,,int8,0,0.0,2,demographic
+rahispan,rahispan: r hispanic,,,float64,567,0.012534818941504178,2,demographic
+raracem,raracem: r race-masked,,,float64,608,0.013441216783835168,3,demographic
+rabyear,rabyear: r birth year,,,float64,1,2.2107264447097318e-05,104,demographic
+raeduc,raeduc: r education (categ),,,float64,501,0.011075739487995756,5,demographic
+r1agey_b,r1agey_b:w1 r age (years) at ivw begmon,1.0,1992.0,float64,32583,0.7203209974797719,61,demographic
+r2agey_b,r2agey_b:w2 r age (years) at ivw begmon,2.0,1994.0,float64,25593,0.5657912189945616,78,demographic
+r3agey_b,r3agey_b:w3 r age (years) at ivw begmon,3.0,1996.0,float64,27243,0.6022682053322722,79,demographic
+r4agey_b,r4agey_b:w4 r age (years) at ivw begmon,4.0,1998.0,float64,23850,0.527258257063271,80,demographic
+r5agey_b,r5agey_b:w5 r age (years) at ivw begmon,5.0,2000.0,float64,25656,0.5671839766547287,79,demographic
+r6agey_b,r6agey_b:w6 r age (years) at ivw begmon,6.0,2002.0,float64,27069,0.5984215413184772,82,demographic
+r7agey_b,r7agey_b:w7 r age (years) at ivw begmon,7.0,2004.0,float64,25105,0.5550028739443781,78,demographic
+r8agey_b,r8agey_b:w8 r age (years) at ivw begmon,8.0,2006.0,float64,26765,0.5917009329265597,75,demographic
+r9agey_b,r9agey_b:w9 r age (years) at ivw begmon,9.0,2008.0,float64,28017,0.6193792280143255,76,demographic
+r10agey_b,r10agey_b:w10 r age (years) at ivw begmon,10.0,2010.0,float64,23200,0.5128885351726578,80,demographic
+r11agey_b,r11agey_b:w11 r age (years) at ivw begmon,11.0,2012.0,float64,24680,0.5456072865543617,79,demographic
+r12agey_b,r12agey_b:w12 r age (years) at ivw begmon,12.0,2014.0,float64,26487,0.5855551134102666,78,demographic
+r13agey_b,r13agey_b:w13 r age (years) at ivw begmon,13.0,2016.0,float64,24322,0.5376928858823009,81,demographic
+r14agey_b,r14agey_b:w14 r age (years) at ivw begmon,14.0,2018.0,float64,28088,0.6209488437900694,80,demographic
+r15agey_b,r15agey_b:w15 r age (years) at ivw begmon,15.0,2020.0,float64,29511,0.6524074810982889,77,demographic
+r16agey_b,r16agey_b:w16 r age (years) at ivw begmon,16.0,2022.0,float64,29378,0.6494672149268249,75,demographic
+r1agey_e,r1agey_e:w1 r age (years) at ivw endmon,1.0,1992.0,float64,32583,0.7203209974797719,61,demographic
+r2agey_e,r2agey_e:w2 r age (years) at ivw endmon,2.0,1994.0,float64,25593,0.5657912189945616,78,demographic
+r3agey_e,r3agey_e:w3 r age (years) at ivw endmon,3.0,1996.0,float64,27243,0.6022682053322722,79,demographic
+r4agey_e,r4agey_e:w4 r age (years) at ivw endmon,4.0,1998.0,float64,23850,0.527258257063271,80,demographic
+r5agey_e,r5agey_e:w5 r age (years) at ivw endmon,5.0,2000.0,float64,25656,0.5671839766547287,79,demographic
+r6agey_e,r6agey_e:w6 r age (years) at ivw endmon,6.0,2002.0,float64,27069,0.5984215413184772,82,demographic
+r7agey_e,r7agey_e:w7 r age (years) at ivw endmon,7.0,2004.0,float64,25105,0.5550028739443781,78,demographic
+r8agey_e,r8agey_e:w8 r age (years) at ivw endmon,8.0,2006.0,float64,26765,0.5917009329265597,75,demographic
+r9agey_e,r9agey_e:w9 r age (years) at ivw endmon,9.0,2008.0,float64,28017,0.6193792280143255,76,demographic
+r10agey_e,r10agey_e:w10 r age (years) at ivw endmon,10.0,2010.0,float64,23200,0.5128885351726578,80,demographic
+r11agey_e,r11agey_e:w11 r age (years) at ivw endmon,11.0,2012.0,float64,24680,0.5456072865543617,79,demographic
+r12agey_e,r12agey_e:w12 r age (years) at ivw endmon,12.0,2014.0,float64,26487,0.5855551134102666,78,demographic
+r13agey_e,r13agey_e:w13 r age (years) at ivw endmon,13.0,2016.0,float64,24322,0.5376928858823009,81,demographic
+r14agey_e,r14agey_e:w14 r age (years) at ivw endmon,14.0,2018.0,float64,28088,0.6209488437900694,80,demographic
+r15agey_e,r15agey_e:w15 r age (years) at ivw endmon,15.0,2020.0,float64,29511,0.6524074810982889,77,demographic
+r16agey_e,r16agey_e:w16 r age (years) at ivw endmon,16.0,2022.0,float64,29378,0.6494672149268249,75,demographic
+r1agey_m,r1agey_m:w1 r age (years) at ivw midmon,1.0,1992.0,float64,32583,0.7203209974797719,61,demographic
+r2agey_m,r2agey_m:w2 r age (years) at ivw midmon,2.0,1994.0,float64,25593,0.5657912189945616,78,demographic
+r3agey_m,r3agey_m:w3 r age (years) at ivw midmon,3.0,1996.0,float64,27243,0.6022682053322722,79,demographic
+r4agey_m,r4agey_m:w4 r age (years) at ivw midmon,4.0,1998.0,float64,23850,0.527258257063271,80,demographic
+r5agey_m,r5agey_m:w5 r age (years) at ivw midmon,5.0,2000.0,float64,25656,0.5671839766547287,79,demographic
+r6agey_m,r6agey_m:w6 r age (years) at ivw midmon,6.0,2002.0,float64,27069,0.5984215413184772,82,demographic
+r7agey_m,r7agey_m:w7 r age (years) at ivw midmon,7.0,2004.0,float64,25105,0.5550028739443781,78,demographic
+r8agey_m,r8agey_m:w8 r age (years) at ivw midmon,8.0,2006.0,float64,26765,0.5917009329265597,75,demographic
+r9agey_m,r9agey_m:w9 r age (years) at ivw midmon,9.0,2008.0,float64,28017,0.6193792280143255,76,demographic
+r10agey_m,r10agey_m:w10 r age (years) at ivw midmon,10.0,2010.0,float64,23200,0.5128885351726578,80,demographic
+r11agey_m,r11agey_m:w11 r age (years) at ivw midmon,11.0,2012.0,float64,24680,0.5456072865543617,79,demographic
+r12agey_m,r12agey_m:w12 r age (years) at ivw midmon,12.0,2014.0,float64,26487,0.5855551134102666,78,demographic
+r13agey_m,r13agey_m:w13 r age (years) at ivw midmon,13.0,2016.0,float64,24322,0.5376928858823009,81,demographic
+r14agey_m,r14agey_m:w14 r age (years) at ivw midmon,14.0,2018.0,float64,28088,0.6209488437900694,80,demographic
+r15agey_m,r15agey_m:w15 r age (years) at ivw midmon,15.0,2020.0,float64,29511,0.6524074810982889,77,demographic
+r16agey_m,r16agey_m:w16 r age (years) at ivw midmon,16.0,2022.0,float64,29378,0.6494672149268249,75,demographic
+r2cesd,r2cesd:w2 cesd score,2.0,1994.0,float64,27168,0.6006101604987398,9,mental_health
+r3cesd,r3cesd:w3 cesd score,3.0,1996.0,float64,28887,0.6386125480833001,9,mental_health
+r4cesd,r4cesd:w4 cesd score,4.0,1998.0,float64,25905,0.572688685502056,9,mental_health
+r5cesd,r5cesd:w5 cesd score,5.0,2000.0,float64,27726,0.6129460140602202,9,mental_health
+r6cesd,r6cesd:w6 cesd score,6.0,2002.0,float64,29109,0.6435203607905557,9,mental_health
+r7cesd,r7cesd:w7 cesd score,7.0,2004.0,float64,26951,0.5958128841137198,9,mental_health
+r8cesd,r8cesd:w8 cesd score,8.0,2006.0,float64,28036,0.6197992660388204,9,mental_health
+r9cesd,r9cesd:w9 cesd score,9.0,2008.0,float64,29159,0.6446257240129106,9,mental_health
+r10cesd,r10cesd:w10 cesd score,10.0,2010.0,float64,24587,0.5435513109607817,9,mental_health
+r11cesd,r11cesd:w11 cesd score,11.0,2012.0,float64,25834,0.5711190697263121,9,mental_health
+r12cesd,r12cesd:w12 cesd score,12.0,2014.0,float64,27538,0.6087898483441659,9,mental_health
+r13cesd,r13cesd:w13 cesd score,13.0,2016.0,float64,25269,0.558628465313702,9,mental_health
+r14cesd,r14cesd:w14 cesd score,14.0,2018.0,float64,28755,0.6356943891762833,9,mental_health
+r15cesd,r15cesd:w15 cesd score,15.0,2020.0,float64,30236,0.6684352478224345,9,mental_health
+r16cesd,r16cesd:w16 cesd score,16.0,2022.0,float64,29971,0.6625768227439537,9,mental_health
+r1cesdm,r1cesdm:w1 missings in cesd score,1.0,1992.0,float64,32582,0.7202988902153248,8,mental_health
+r2cesdm,r2cesdm:w2 missings in cesd score,2.0,1994.0,float64,25592,0.5657691117301146,7,mental_health
+r3cesdm,r3cesdm:w3 missings in cesd score,3.0,1996.0,float64,27243,0.6022682053322722,6,mental_health
+r4cesdm,r4cesdm:w4 missings in cesd score,4.0,1998.0,float64,23850,0.527258257063271,7,mental_health
+r5cesdm,r5cesdm:w5 missings in cesd score,5.0,2000.0,float64,25656,0.5671839766547287,6,mental_health
+r6cesdm,r6cesdm:w6 missings in cesd score,6.0,2002.0,float64,27069,0.5984215413184772,8,mental_health
+r7cesdm,r7cesdm:w7 missings in cesd score,7.0,2004.0,float64,25105,0.5550028739443781,8,mental_health
+r8cesdm,r8cesdm:w8 missings in cesd score,8.0,2006.0,float64,26765,0.5917009329265597,9,mental_health
+r9cesdm,r9cesdm:w9 missings in cesd score,9.0,2008.0,float64,28017,0.6193792280143255,7,mental_health
+r10cesdm,r10cesdm:w10 missings in cesd score,10.0,2010.0,float64,23200,0.5128885351726578,7,mental_health
+r11cesdm,r11cesdm:w11 missings in cesd score,11.0,2012.0,float64,24680,0.5456072865543617,7,mental_health
+r12cesdm,r12cesdm:w12 missings in cesd score,12.0,2014.0,float64,26487,0.5855551134102666,7,mental_health
+r13cesdm,r13cesdm:w13 missings in cesd score,13.0,2016.0,float64,24322,0.5376928858823009,7,mental_health
+r14cesdm,r14cesdm:w14 missings in cesd score,14.0,2018.0,float64,28088,0.6209488437900694,9,mental_health
+r15cesdm,r15cesdm:w15 missings in cesd score,15.0,2020.0,float64,29511,0.6524074810982889,8,mental_health
+r16cesdm,r16cesdm:w16 missings in cesd score,16.0,2022.0,float64,29378,0.6494672149268249,8,mental_health
+r1bmi,r1bmi:w1 self-reported body mass index=kg/m2,1.0,1992.0,float64,32582,0.7202988902153248,353,body_mass
+r2bmi,r2bmi:w2 self-reported body mass index=kg/m2,2.0,1994.0,float64,25800,0.5703674227351108,364,body_mass
+r3bmi,r3bmi:w3 self-reported body mass index=kg/m2,3.0,1996.0,float64,27461,0.6070875889817394,366,body_mass
+r4bmi,r4bmi:w4 self-reported body mass index=kg/m2,4.0,1998.0,float64,24135,0.5335588274306937,388,body_mass
+r5bmi,r5bmi:w5 self-reported body mass index=kg/m2,5.0,2000.0,float64,25945,0.5735729760799398,400,body_mass
+r6bmi,r6bmi:w6 self-reported body mass index=kg/m2,6.0,2002.0,float64,27416,0.60609276208162,381,body_mass
+r7bmi,r7bmi:w7 self-reported body mass index=kg/m2,7.0,2004.0,float64,25484,0.563381527169828,409,body_mass
+r8bmi,r8bmi:w8 self-reported body mass index=kg/m2,8.0,2006.0,float64,27059,0.5982004686740062,415,body_mass
+r9bmi,r9bmi:w9 self-reported body mass index=kg/m2,9.0,2008.0,float64,28251,0.6245523278949463,406,body_mass
+r10bmi,r10bmi:w10 self-reported body mass index=kg/m2,10.0,2010.0,float64,23632,0.5224388734138038,445,body_mass
+r11bmi,r11bmi:w11 self-reported body mass index=kg/m2,11.0,2012.0,float64,24990,0.552460538532962,455,body_mass
+r12bmi,r12bmi:w12 self-reported body mass index=kg/m2,12.0,2014.0,float64,26792,0.5922978290666313,434,body_mass
+r13bmi,r13bmi:w13 self-reported body mass index=kg/m2,13.0,2016.0,float64,24656,0.5450767122076314,437,body_mass
+r14bmi,r14bmi:w14 self-reported body mass index=kg/m2,14.0,2018.0,float64,28331,0.626320909050714,438,body_mass
+r15bmi,r15bmi:w15 self-reported body mass index=kg/m2,15.0,2020.0,float64,29737,0.6574037228633329,437,body_mass
+r16bmi,r16bmi:w16 self-reported body mass index=kg/m2,16.0,2022.0,float64,29661,0.6557235707653535,456,body_mass
+r1height,r1height:w1 self-reported height in meters,1.0,1992.0,float64,32582,0.7202988902153248,37,body_mass
+r2height,r2height:w2 self-reported height in meters,2.0,1994.0,float64,25631,0.5666312950435514,44,body_mass
+r3height,r3height:w3 self-reported height in meters,3.0,1996.0,float64,27272,0.602909316001238,43,body_mass
+r4height,r4height:w4 self-reported height in meters,4.0,1998.0,float64,23887,0.5280762258478136,43,body_mass
+r5height,r5height:w5 self-reported height in meters,5.0,2000.0,float64,25685,0.5678250873236945,41,body_mass
+r6height,r6height:w6 self-reported height in meters,6.0,2002.0,float64,27104,0.5991952955741257,40,body_mass
+r7height,r7height:w7 self-reported height in meters,7.0,2004.0,float64,25166,0.5563514170756511,42,body_mass
+r8height,r8height:w8 self-reported height in meters,8.0,2006.0,float64,26784,0.5921209709510545,40,body_mass
+r9height,r9height:w9 self-reported height in meters,9.0,2008.0,float64,28035,0.6197771587743732,94,body_mass
+r10height,r10height:w10 self-reported height in meters,10.0,2010.0,float64,23357,0.516359375690852,108,body_mass
+r11height,r11height:w11 self-reported height in meters,11.0,2012.0,float64,24796,0.5481717292302251,107,body_mass
+r12height,r12height:w12 self-reported height in meters,12.0,2014.0,float64,26574,0.5874784454171641,101,body_mass
+r13height,r13height:w13 self-reported height in meters,13.0,2016.0,float64,24439,0.5402794358226113,103,body_mass
+r14height,r14height:w14 self-reported height in meters,14.0,2018.0,float64,28160,0.6225405668302604,95,body_mass
+r15height,r15height:w15 self-reported height in meters,15.0,2020.0,float64,29565,0.6536012733784321,98,body_mass
+r16height,r16height:w16 self-reported height in meters,16.0,2022.0,float64,29475,0.6516116195781934,98,body_mass
+r1weight,r1weight:w1 self-reported weight in kilograms,1.0,1992.0,float64,32582,0.7202988902153248,223,body_mass
+r2weight,r2weight:w2 self-reported weight in kilograms,2.0,1994.0,float64,25770,0.5697042048016978,236,body_mass
+r3weight,r3weight:w3 self-reported weight in kilograms,3.0,1996.0,float64,27436,0.6065349073705619,242,body_mass
+r4weight,r4weight:w4 self-reported weight in kilograms,4.0,1998.0,float64,24101,0.5328071804394924,255,body_mass
+r5weight,r5weight:w5 self-reported weight in kilograms,5.0,2000.0,float64,25919,0.5729981872043154,249,body_mass
+r6weight,r6weight:w6 self-reported weight in kilograms,6.0,2002.0,float64,27385,0.60540743688376,248,body_mass
+r7weight,r7weight:w7 self-reported weight in kilograms,7.0,2004.0,float64,25425,0.5620771985674493,264,body_mass
+r8weight,r8weight:w8 self-reported weight in kilograms,8.0,2006.0,float64,27045,0.5978909669717469,262,body_mass
+r9weight,r9weight:w9 self-reported weight in kilograms,9.0,2008.0,float64,28236,0.6242207189282398,269,body_mass
+r10weight,r10weight:w10 self-reported weight in kilograms,10.0,2010.0,float64,23492,0.5193438563912102,304,body_mass
+r11weight,r11weight:w11 self-reported weight in kilograms,11.0,2012.0,float64,24886,0.5501613830304638,304,body_mass
+r12weight,r12weight:w12 self-reported weight in kilograms,12.0,2014.0,float64,26719,0.5906839987619932,281,body_mass
+r13weight,r13weight:w13 self-reported weight in kilograms,13.0,2016.0,float64,24548,0.5426891276473449,291,body_mass
+r14weight,r14weight:w14 self-reported weight in kilograms,14.0,2018.0,float64,28265,0.6248618295972056,285,body_mass
+r15weight,r15weight:w15 self-reported weight in kilograms,15.0,2020.0,float64,29687,0.656298359640978,286,body_mass
+r16weight,r16weight:w16 self-reported weight in kilograms,16.0,2022.0,float64,29576,0.6538444532873502,290,body_mass
+r1hibpe,r1hibpe:w1 r ever had high blood pressure,1.0,1992.0,float64,32582,0.7202988902153248,2,health_conditions
+r2hibpe,r2hibpe:w2 r ever had high blood pressure,2.0,1994.0,float64,25592,0.5657691117301146,2,health_conditions
+r3hibpe,r3hibpe:w3 r ever had high blood pressure,3.0,1996.0,float64,27243,0.6022682053322722,2,health_conditions
+r4hibpe,r4hibpe:w4 r ever had high blood pressure,4.0,1998.0,float64,23850,0.527258257063271,2,health_conditions
+r5hibpe,r5hibpe:w5 r ever had high blood pressure,5.0,2000.0,float64,25656,0.5671839766547287,2,health_conditions
+r6hibpe,r6hibpe:w6 r ever had high blood pressure,6.0,2002.0,float64,27069,0.5984215413184772,2,health_conditions
+r7hibpe,r7hibpe:w7 r ever had high blood pressure,7.0,2004.0,float64,25105,0.5550028739443781,2,health_conditions
+r8hibpe,r8hibpe:w8 r ever had high blood pressure,8.0,2006.0,float64,26765,0.5917009329265597,2,health_conditions
+r9hibpe,r9hibpe:w9 r ever had high blood pressure,9.0,2008.0,float64,28017,0.6193792280143255,2,health_conditions
+r10hibpe,r10hibpe:w10 r ever had high blood pressure,10.0,2010.0,float64,23200,0.5128885351726578,2,health_conditions
+r11hibpe,r11hibpe:w11 r ever had high blood pressure,11.0,2012.0,float64,24680,0.5456072865543617,2,health_conditions
+r12hibpe,r12hibpe:w12 r ever had high blood pressure,12.0,2014.0,float64,26487,0.5855551134102666,2,health_conditions
+r13hibpe,r13hibpe:w13 r ever had high blood pressure,13.0,2016.0,float64,24322,0.5376928858823009,2,health_conditions
+r14hibpe,r14hibpe:w14 r ever had high blood pressure,14.0,2018.0,float64,28088,0.6209488437900694,2,health_conditions
+r15hibpe,r15hibpe:w15 r ever had high blood pressure,15.0,2020.0,float64,29511,0.6524074810982889,2,health_conditions
+r16hibpe,r16hibpe:w16 r ever had high blood pressure,16.0,2022.0,float64,29378,0.6494672149268249,2,health_conditions
+r1hibpe2,r1hibpe2:w1 r ever had high blood pressure-2 consecutive reports,1.0,1992.0,float64,32582,0.7202988902153248,2,health_conditions
+r2hibpe2,r2hibpe2:w2 r ever had high blood pressure-2 consecutive reports,2.0,1994.0,float64,25592,0.5657691117301146,2,health_conditions
+r3hibpe2,r3hibpe2:w3 r ever had high blood pressure-2 consecutive reports,3.0,1996.0,float64,27243,0.6022682053322722,2,health_conditions
+r4hibpe2,r4hibpe2:w4 r ever had high blood pressure-2 consecutive reports,4.0,1998.0,float64,23850,0.527258257063271,2,health_conditions
+r5hibpe2,r5hibpe2:w5 r ever had high blood pressure-2 consecutive reports,5.0,2000.0,float64,25656,0.5671839766547287,2,health_conditions
+r6hibpe2,r6hibpe2:w6 r ever had high blood pressure-2 consecutive reports,6.0,2002.0,float64,27069,0.5984215413184772,2,health_conditions
+r7hibpe2,r7hibpe2:w7 r ever had high blood pressure-2 consecutive reports,7.0,2004.0,float64,25105,0.5550028739443781,2,health_conditions
+r8hibpe2,r8hibpe2:w8 r ever had high blood pressure-2 consecutive reports,8.0,2006.0,float64,26765,0.5917009329265597,2,health_conditions
+r9hibpe2,r9hibpe2:w9 r ever had high blood pressure-2 consecutive reports,9.0,2008.0,float64,28017,0.6193792280143255,2,health_conditions
+r10hibpe2,r10hibpe2:w10 r ever had high blood pressure-2 consecutive reports,10.0,2010.0,float64,23200,0.5128885351726578,2,health_conditions
+r11hibpe2,r11hibpe2:w11 r ever had high blood pressure-2 consecutive reports,11.0,2012.0,float64,24680,0.5456072865543617,2,health_conditions
+r12hibpe2,r12hibpe2:w12 r ever had high blood pressure-2 consecutive reports,12.0,2014.0,float64,26487,0.5855551134102666,2,health_conditions
+r13hibpe2,r13hibpe2:w13 r ever had high blood pressure-2 consecutive reports,13.0,2016.0,float64,24322,0.5376928858823009,2,health_conditions
+r14hibpe2,r14hibpe2:w14 r ever had high blood pressure-2 consecutive reports,14.0,2018.0,float64,28088,0.6209488437900694,2,health_conditions
+r15hibpe2,r15hibpe2:w15 r ever had high blood pressure-2 consecutive reports,15.0,2020.0,float64,29511,0.6524074810982889,2,health_conditions
+r16hibpe2,r16hibpe2:w16 r ever had high blood pressure-2 consecutive reports,16.0,2022.0,float64,29378,0.6494672149268249,2,health_conditions
+r1diabe,r1diabe:w1 r ever had diabetes,1.0,1992.0,float64,32582,0.7202988902153248,2,health_conditions
+r2diabe,r2diabe:w2 r ever had diabetes,2.0,1994.0,float64,25592,0.5657691117301146,2,health_conditions
+r3diabe,r3diabe:w3 r ever had diabetes,3.0,1996.0,float64,27243,0.6022682053322722,2,health_conditions
+r4diabe,r4diabe:w4 r ever had diabetes,4.0,1998.0,float64,23850,0.527258257063271,2,health_conditions
+r5diabe,r5diabe:w5 r ever had diabetes,5.0,2000.0,float64,25656,0.5671839766547287,2,health_conditions
+r6diabe,r6diabe:w6 r ever had diabetes,6.0,2002.0,float64,27069,0.5984215413184772,2,health_conditions
+r7diabe,r7diabe:w7 r ever had diabetes,7.0,2004.0,float64,25105,0.5550028739443781,2,health_conditions
+r8diabe,r8diabe:w8 r ever had diabetes,8.0,2006.0,float64,26765,0.5917009329265597,2,health_conditions
+r9diabe,r9diabe:w9 r ever had diabetes,9.0,2008.0,float64,28017,0.6193792280143255,2,health_conditions
+r10diabe,r10diabe:w10 r ever had diabetes,10.0,2010.0,float64,23200,0.5128885351726578,2,health_conditions
+r11diabe,r11diabe:w11 r ever had diabetes,11.0,2012.0,float64,24680,0.5456072865543617,2,health_conditions
+r12diabe,r12diabe:w12 r ever had diabetes,12.0,2014.0,float64,26487,0.5855551134102666,2,health_conditions
+r13diabe,r13diabe:w13 r ever had diabetes,13.0,2016.0,float64,24322,0.5376928858823009,2,health_conditions
+r14diabe,r14diabe:w14 r ever had diabetes,14.0,2018.0,float64,28088,0.6209488437900694,2,health_conditions
+r15diabe,r15diabe:w15 r ever had diabetes,15.0,2020.0,float64,29511,0.6524074810982889,2,health_conditions
+r16diabe,r16diabe:w16 r ever had diabetes,16.0,2022.0,float64,29378,0.6494672149268249,2,health_conditions
+r1diabe2,r1diabe2:w1 r ever had diabetes-2 consecutive reports,1.0,1992.0,float64,32582,0.7202988902153248,2,health_conditions
+r2diabe2,r2diabe2:w2 r ever had diabetes-2 consecutive reports,2.0,1994.0,float64,25592,0.5657691117301146,2,health_conditions
+r3diabe2,r3diabe2:w3 r ever had diabetes-2 consecutive reports,3.0,1996.0,float64,27243,0.6022682053322722,2,health_conditions
+r4diabe2,r4diabe2:w4 r ever had diabetes-2 consecutive reports,4.0,1998.0,float64,23850,0.527258257063271,2,health_conditions
+r5diabe2,r5diabe2:w5 r ever had diabetes-2 consecutive reports,5.0,2000.0,float64,25656,0.5671839766547287,2,health_conditions
+r6diabe2,r6diabe2:w6 r ever had diabetes-2 consecutive reports,6.0,2002.0,float64,27069,0.5984215413184772,2,health_conditions
+r7diabe2,r7diabe2:w7 r ever had diabetes-2 consecutive reports,7.0,2004.0,float64,25105,0.5550028739443781,2,health_conditions
+r8diabe2,r8diabe2:w8 r ever had diabetes-2 consecutive reports,8.0,2006.0,float64,26765,0.5917009329265597,2,health_conditions
+r9diabe2,r9diabe2:w9 r ever had diabetes-2 consecutive reports,9.0,2008.0,float64,28017,0.6193792280143255,2,health_conditions
+r10diabe2,r10diabe2:w10 r ever had diabetes-2 consecutive reports,10.0,2010.0,float64,23200,0.5128885351726578,2,health_conditions
+r11diabe2,r11diabe2:w11 r ever had diabetes-2 consecutive reports,11.0,2012.0,float64,24680,0.5456072865543617,2,health_conditions
+r12diabe2,r12diabe2:w12 r ever had diabetes-2 consecutive reports,12.0,2014.0,float64,26487,0.5855551134102666,2,health_conditions
+r13diabe2,r13diabe2:w13 r ever had diabetes-2 consecutive reports,13.0,2016.0,float64,24322,0.5376928858823009,2,health_conditions
+r14diabe2,r14diabe2:w14 r ever had diabetes-2 consecutive reports,14.0,2018.0,float64,28088,0.6209488437900694,2,health_conditions
+r15diabe2,r15diabe2:w15 r ever had diabetes-2 consecutive reports,15.0,2020.0,float64,29511,0.6524074810982889,2,health_conditions
+r16diabe2,r16diabe2:w16 r ever had diabetes-2 consecutive reports,16.0,2022.0,float64,29378,0.6494672149268249,2,health_conditions
+r1cancre,r1cancre:w1 r ever had cancer,1.0,1992.0,float64,32582,0.7202988902153248,2,health_conditions
+r2cancre,r2cancre:w2 r ever had cancer,2.0,1994.0,float64,25592,0.5657691117301146,2,health_conditions
+r3cancre,r3cancre:w3 r ever had cancer,3.0,1996.0,float64,27243,0.6022682053322722,2,health_conditions
+r4cancre,r4cancre:w4 r ever had cancer,4.0,1998.0,float64,23850,0.527258257063271,2,health_conditions
+r5cancre,r5cancre:w5 r ever had cancer,5.0,2000.0,float64,25656,0.5671839766547287,2,health_conditions
+r6cancre,r6cancre:w6 r ever had cancer,6.0,2002.0,float64,27069,0.5984215413184772,2,health_conditions
+r7cancre,r7cancre:w7 r ever had cancer,7.0,2004.0,float64,25105,0.5550028739443781,2,health_conditions
+r8cancre,r8cancre:w8 r ever had cancer,8.0,2006.0,float64,26765,0.5917009329265597,2,health_conditions
+r9cancre,r9cancre:w9 r ever had cancer,9.0,2008.0,float64,28017,0.6193792280143255,2,health_conditions
+r10cancre,r10cancre:w10 r ever had cancer,10.0,2010.0,float64,23200,0.5128885351726578,2,health_conditions
+r11cancre,r11cancre:w11 r ever had cancer,11.0,2012.0,float64,24680,0.5456072865543617,2,health_conditions
+r12cancre,r12cancre:w12 r ever had cancer,12.0,2014.0,float64,26487,0.5855551134102666,2,health_conditions
+r13cancre,r13cancre:w13 r ever had cancer,13.0,2016.0,float64,24322,0.5376928858823009,2,health_conditions
+r14cancre,r14cancre:w14 r ever had cancer,14.0,2018.0,float64,28088,0.6209488437900694,2,health_conditions
+r15cancre,r15cancre:w15 r ever had cancer,15.0,2020.0,float64,29511,0.6524074810982889,2,health_conditions
+r16cancre,r16cancre:w16 r ever had cancer,16.0,2022.0,float64,29378,0.6494672149268249,2,health_conditions
+r1lunge,r1lunge:w1 r ever had lung disease,1.0,1992.0,float64,32582,0.7202988902153248,2,health_conditions
+r2lunge,r2lunge:w2 r ever had lung disease,2.0,1994.0,float64,25592,0.5657691117301146,2,health_conditions
+r3lunge,r3lunge:w3 r ever had lung disease,3.0,1996.0,float64,27243,0.6022682053322722,2,health_conditions
+r4lunge,r4lunge:w4 r ever had lung disease,4.0,1998.0,float64,23850,0.527258257063271,2,health_conditions
+r5lunge,r5lunge:w5 r ever had lung disease,5.0,2000.0,float64,25656,0.5671839766547287,2,health_conditions
+r6lunge,r6lunge:w6 r ever had lung disease,6.0,2002.0,float64,27069,0.5984215413184772,2,health_conditions
+r7lunge,r7lunge:w7 r ever had lung disease,7.0,2004.0,float64,25105,0.5550028739443781,2,health_conditions
+r8lunge,r8lunge:w8 r ever had lung disease,8.0,2006.0,float64,26765,0.5917009329265597,2,health_conditions
+r9lunge,r9lunge:w9 r ever had lung disease,9.0,2008.0,float64,28017,0.6193792280143255,2,health_conditions
+r10lunge,r10lunge:w10 r ever had lung disease,10.0,2010.0,float64,23200,0.5128885351726578,2,health_conditions
+r11lunge,r11lunge:w11 r ever had lung disease,11.0,2012.0,float64,24680,0.5456072865543617,2,health_conditions
+r12lunge,r12lunge:w12 r ever had lung disease,12.0,2014.0,float64,26487,0.5855551134102666,2,health_conditions
+r13lunge,r13lunge:w13 r ever had lung disease,13.0,2016.0,float64,24322,0.5376928858823009,2,health_conditions
+r14lunge,r14lunge:w14 r ever had lung disease,14.0,2018.0,float64,28088,0.6209488437900694,2,health_conditions
+r15lunge,r15lunge:w15 r ever had lung disease,15.0,2020.0,float64,29511,0.6524074810982889,2,health_conditions
+r16lunge,r16lunge:w16 r ever had lung disease,16.0,2022.0,float64,29378,0.6494672149268249,2,health_conditions
+r1hearte,r1hearte:w1 r ever had heart problems,1.0,1992.0,float64,32582,0.7202988902153248,2,health_conditions
+r2hearte,r2hearte:w2 r ever had heart problems,2.0,1994.0,float64,25592,0.5657691117301146,2,health_conditions
+r3hearte,r3hearte:w3 r ever had heart problems,3.0,1996.0,float64,27243,0.6022682053322722,2,health_conditions
+r4hearte,r4hearte:w4 r ever had heart problems,4.0,1998.0,float64,23850,0.527258257063271,2,health_conditions
+r5hearte,r5hearte:w5 r ever had heart problems,5.0,2000.0,float64,25656,0.5671839766547287,2,health_conditions
+r6hearte,r6hearte:w6 r ever had heart problems,6.0,2002.0,float64,27069,0.5984215413184772,2,health_conditions
+r7hearte,r7hearte:w7 r ever had heart problems,7.0,2004.0,float64,25105,0.5550028739443781,2,health_conditions
+r8hearte,r8hearte:w8 r ever had heart problems,8.0,2006.0,float64,26765,0.5917009329265597,2,health_conditions
+r9hearte,r9hearte:w9 r ever had heart problems,9.0,2008.0,float64,28017,0.6193792280143255,2,health_conditions
+r10hearte,r10hearte:w10 r ever had heart problems,10.0,2010.0,float64,23200,0.5128885351726578,2,health_conditions
+r11hearte,r11hearte:w11 r ever had heart problems,11.0,2012.0,float64,24680,0.5456072865543617,2,health_conditions
+r12hearte,r12hearte:w12 r ever had heart problems,12.0,2014.0,float64,26487,0.5855551134102666,2,health_conditions
+r13hearte,r13hearte:w13 r ever had heart problems,13.0,2016.0,float64,24322,0.5376928858823009,2,health_conditions
+r14hearte,r14hearte:w14 r ever had heart problems,14.0,2018.0,float64,28088,0.6209488437900694,2,health_conditions
+r15hearte,r15hearte:w15 r ever had heart problems,15.0,2020.0,float64,29511,0.6524074810982889,2,health_conditions
+r16hearte,r16hearte:w16 r ever had heart problems,16.0,2022.0,float64,29378,0.6494672149268249,2,health_conditions
+r1hearte2,r1hearte2:w1 r ever had heart problems-2 consecutive reports,1.0,1992.0,float64,32582,0.7202988902153248,2,health_conditions
+r2hearte2,r2hearte2:w2 r ever had heart problems-2 consecutive reports,2.0,1994.0,float64,25592,0.5657691117301146,2,health_conditions
+r3hearte2,r3hearte2:w3 r ever had heart problems-2 consecutive reports,3.0,1996.0,float64,27243,0.6022682053322722,2,health_conditions
+r4hearte2,r4hearte2:w4 r ever had heart problems-2 consecutive reports,4.0,1998.0,float64,23850,0.527258257063271,2,health_conditions
+r5hearte2,r5hearte2:w5 r ever had heart problems-2 consecutive reports,5.0,2000.0,float64,25656,0.5671839766547287,2,health_conditions
+r6hearte2,r6hearte2:w6 r ever had heart problems-2 consecutive reports,6.0,2002.0,float64,27069,0.5984215413184772,2,health_conditions
+r7hearte2,r7hearte2:w7 r ever had heart problems-2 consecutive reports,7.0,2004.0,float64,25105,0.5550028739443781,2,health_conditions
+r8hearte2,r8hearte2:w8 r ever had heart problems-2 consecutive reports,8.0,2006.0,float64,26765,0.5917009329265597,2,health_conditions
+r9hearte2,r9hearte2:w9 r ever had heart problems-2 consecutive reports,9.0,2008.0,float64,28017,0.6193792280143255,2,health_conditions
+r10hearte2,r10hearte2:w10 r ever had heart problems-2 consecutive reports,10.0,2010.0,float64,23200,0.5128885351726578,2,health_conditions
+r11hearte2,r11hearte2:w11 r ever had heart problems-2 consecutive reports,11.0,2012.0,float64,24680,0.5456072865543617,2,health_conditions
+r12hearte2,r12hearte2:w12 r ever had heart problems-2 consecutive reports,12.0,2014.0,float64,26487,0.5855551134102666,2,health_conditions
+r13hearte2,r13hearte2:w13 r ever had heart problems-2 consecutive reports,13.0,2016.0,float64,24322,0.5376928858823009,2,health_conditions
+r14hearte2,r14hearte2:w14 r ever had heart problems-2 consecutive reports,14.0,2018.0,float64,28088,0.6209488437900694,2,health_conditions
+r15hearte2,r15hearte2:w15 r ever had heart problems-2 consecutive reports,15.0,2020.0,float64,29511,0.6524074810982889,2,health_conditions
+r16hearte2,r16hearte2:w16 r ever had heart problems-2 consecutive reports,16.0,2022.0,float64,29378,0.6494672149268249,2,health_conditions
+r1stroke,r1stroke:w1 r ever had stroke,1.0,1992.0,float64,32582,0.7202988902153248,2,health_conditions
+r2stroke,r2stroke:w2 r ever had stroke,2.0,1994.0,float64,25592,0.5657691117301146,2,health_conditions
+r3stroke,r3stroke:w3 r ever had stroke,3.0,1996.0,float64,27243,0.6022682053322722,2,health_conditions
+r4stroke,r4stroke:w4 r ever had stroke,4.0,1998.0,float64,23850,0.527258257063271,2,health_conditions
+r5stroke,r5stroke:w5 r ever had stroke,5.0,2000.0,float64,25656,0.5671839766547287,2,health_conditions
+r6stroke,r6stroke:w6 r ever had stroke,6.0,2002.0,float64,27069,0.5984215413184772,2,health_conditions
+r7stroke,r7stroke:w7 r ever had stroke,7.0,2004.0,float64,25105,0.5550028739443781,2,health_conditions
+r8stroke,r8stroke:w8 r ever had stroke,8.0,2006.0,float64,26765,0.5917009329265597,2,health_conditions
+r9stroke,r9stroke:w9 r ever had stroke,9.0,2008.0,float64,28017,0.6193792280143255,2,health_conditions
+r10stroke,r10stroke:w10 r ever had stroke,10.0,2010.0,float64,23200,0.5128885351726578,2,health_conditions
+r11stroke,r11stroke:w11 r ever had stroke,11.0,2012.0,float64,24680,0.5456072865543617,2,health_conditions
+r12stroke,r12stroke:w12 r ever had stroke,12.0,2014.0,float64,26487,0.5855551134102666,2,health_conditions
+r13stroke,r13stroke:w13 r ever had stroke,13.0,2016.0,float64,24322,0.5376928858823009,2,health_conditions
+r14stroke,r14stroke:w14 r ever had stroke,14.0,2018.0,float64,28088,0.6209488437900694,2,health_conditions
+r15stroke,r15stroke:w15 r ever had stroke,15.0,2020.0,float64,29511,0.6524074810982889,2,health_conditions
+r16stroke,r16stroke:w16 r ever had stroke,16.0,2022.0,float64,29378,0.6494672149268249,2,health_conditions
+r1stroke2,r1stroke2:w1 r ever had stroke-2 consecutive reports,1.0,1992.0,float64,32582,0.7202988902153248,2,health_conditions
+r2stroke2,r2stroke2:w2 r ever had stroke-2 consecutive reports,2.0,1994.0,float64,25592,0.5657691117301146,2,health_conditions
+r3stroke2,r3stroke2:w3 r ever had stroke-2 consecutive reports,3.0,1996.0,float64,27243,0.6022682053322722,2,health_conditions
+r4stroke2,r4stroke2:w4 r ever had stroke-2 consecutive reports,4.0,1998.0,float64,23850,0.527258257063271,2,health_conditions
+r5stroke2,r5stroke2:w5 r ever had stroke-2 consecutive reports,5.0,2000.0,float64,25656,0.5671839766547287,2,health_conditions
+r6stroke2,r6stroke2:w6 r ever had stroke-2 consecutive reports,6.0,2002.0,float64,27069,0.5984215413184772,2,health_conditions
+r7stroke2,r7stroke2:w7 r ever had stroke-2 consecutive reports,7.0,2004.0,float64,25105,0.5550028739443781,2,health_conditions
+r8stroke2,r8stroke2:w8 r ever had stroke-2 consecutive reports,8.0,2006.0,float64,26765,0.5917009329265597,2,health_conditions
+r9stroke2,r9stroke2:w9 r ever had stroke-2 consecutive reports,9.0,2008.0,float64,28017,0.6193792280143255,2,health_conditions
+r10stroke2,r10stroke2:w10 r ever had stroke-2 consecutive reports,10.0,2010.0,float64,23200,0.5128885351726578,2,health_conditions
+r11stroke2,r11stroke2:w11 r ever had stroke-2 consecutive reports,11.0,2012.0,float64,24680,0.5456072865543617,2,health_conditions
+r12stroke2,r12stroke2:w12 r ever had stroke-2 consecutive reports,12.0,2014.0,float64,26487,0.5855551134102666,2,health_conditions
+r13stroke2,r13stroke2:w13 r ever had stroke-2 consecutive reports,13.0,2016.0,float64,24322,0.5376928858823009,2,health_conditions
+r14stroke2,r14stroke2:w14 r ever had stroke-2 consecutive reports,14.0,2018.0,float64,28088,0.6209488437900694,2,health_conditions
+r15stroke2,r15stroke2:w15 r ever had stroke-2 consecutive reports,15.0,2020.0,float64,29511,0.6524074810982889,2,health_conditions
+r16stroke2,r16stroke2:w16 r ever had stroke-2 consecutive reports,16.0,2022.0,float64,29378,0.6494672149268249,2,health_conditions
+r1psyche,r1psyche:w1 r ever had psych problems,1.0,1992.0,float64,32582,0.7202988902153248,2,health_conditions
+r2psyche,r2psyche:w2 r ever had psych problems,2.0,1994.0,float64,25592,0.5657691117301146,2,health_conditions
+r3psyche,r3psyche:w3 r ever had psych problems,3.0,1996.0,float64,27243,0.6022682053322722,2,health_conditions
+r4psyche,r4psyche:w4 r ever had psych problems,4.0,1998.0,float64,23850,0.527258257063271,2,health_conditions
+r5psyche,r5psyche:w5 r ever had psych problems,5.0,2000.0,float64,25656,0.5671839766547287,2,health_conditions
+r6psyche,r6psyche:w6 r ever had psych problems,6.0,2002.0,float64,27069,0.5984215413184772,2,health_conditions
+r7psyche,r7psyche:w7 r ever had psych problems,7.0,2004.0,float64,25105,0.5550028739443781,2,health_conditions
+r8psyche,r8psyche:w8 r ever had psych problems,8.0,2006.0,float64,26765,0.5917009329265597,2,health_conditions
+r9psyche,r9psyche:w9 r ever had psych problems,9.0,2008.0,float64,28017,0.6193792280143255,2,health_conditions
+r10psyche,r10psyche:w10 r ever had psych problems,10.0,2010.0,float64,23200,0.5128885351726578,2,health_conditions
+r11psyche,r11psyche:w11 r ever had psych problems,11.0,2012.0,float64,24680,0.5456072865543617,2,health_conditions
+r12psyche,r12psyche:w12 r ever had psych problems,12.0,2014.0,float64,26487,0.5855551134102666,2,health_conditions
+r13psyche,r13psyche:w13 r ever had psych problems,13.0,2016.0,float64,24322,0.5376928858823009,2,health_conditions
+r14psyche,r14psyche:w14 r ever had psych problems,14.0,2018.0,float64,28088,0.6209488437900694,2,health_conditions
+r15psyche,r15psyche:w15 r ever had psych problems,15.0,2020.0,float64,29511,0.6524074810982889,2,health_conditions
+r16psyche,r16psyche:w16 r ever had psych problems,16.0,2022.0,float64,29378,0.6494672149268249,2,health_conditions
+r1arthre,r1arthre:w1 r ever had arthritis,1.0,1992.0,float64,32582,0.7202988902153248,2,health_conditions
+r2arthre,r2arthre:w2 r ever had arthritis,2.0,1994.0,float64,25592,0.5657691117301146,2,health_conditions
+r3arthre,r3arthre:w3 r ever had arthritis,3.0,1996.0,float64,27243,0.6022682053322722,2,health_conditions
+r4arthre,r4arthre:w4 r ever had arthritis,4.0,1998.0,float64,23850,0.527258257063271,2,health_conditions
+r5arthre,r5arthre:w5 r ever had arthritis,5.0,2000.0,float64,25656,0.5671839766547287,2,health_conditions
+r6arthre,r6arthre:w6 r ever had arthritis,6.0,2002.0,float64,27069,0.5984215413184772,2,health_conditions
+r7arthre,r7arthre:w7 r ever had arthritis,7.0,2004.0,float64,25105,0.5550028739443781,2,health_conditions
+r8arthre,r8arthre:w8 r ever had arthritis,8.0,2006.0,float64,26765,0.5917009329265597,2,health_conditions
+r9arthre,r9arthre:w9 r ever had arthritis,9.0,2008.0,float64,28017,0.6193792280143255,2,health_conditions
+r10arthre,r10arthre:w10 r ever had arthritis,10.0,2010.0,float64,23200,0.5128885351726578,2,health_conditions
+r11arthre,r11arthre:w11 r ever had arthritis,11.0,2012.0,float64,24680,0.5456072865543617,2,health_conditions
+r12arthre,r12arthre:w12 r ever had arthritis,12.0,2014.0,float64,26487,0.5855551134102666,2,health_conditions
+r13arthre,r13arthre:w13 r ever had arthritis,13.0,2016.0,float64,24322,0.5376928858823009,2,health_conditions
+r14arthre,r14arthre:w14 r ever had arthritis,14.0,2018.0,float64,28088,0.6209488437900694,2,health_conditions
+r15arthre,r15arthre:w15 r ever had arthritis,15.0,2020.0,float64,29511,0.6524074810982889,2,health_conditions
+r16arthre,r16arthre:w16 r ever had arthritis,16.0,2022.0,float64,29378,0.6494672149268249,2,health_conditions
+r1arthre2,r1arthre2:w1 r ever had arthritis-2 consecutive reports,1.0,1992.0,float64,32582,0.7202988902153248,2,health_conditions
+r2arthre2,r2arthre2:w2 r ever had arthritis-2 consecutive reports,2.0,1994.0,float64,25592,0.5657691117301146,2,health_conditions
+r3arthre2,r3arthre2:w3 r ever had arthritis-2 consecutive reports,3.0,1996.0,float64,27243,0.6022682053322722,2,health_conditions
+r4arthre2,r4arthre2:w4 r ever had arthritis-2 consecutive reports,4.0,1998.0,float64,23850,0.527258257063271,2,health_conditions
+r5arthre2,r5arthre2:w5 r ever had arthritis-2 consecutive reports,5.0,2000.0,float64,25656,0.5671839766547287,2,health_conditions
+r6arthre2,r6arthre2:w6 r ever had arthritis-2 consecutive reports,6.0,2002.0,float64,27069,0.5984215413184772,2,health_conditions
+r7arthre2,r7arthre2:w7 r ever had arthritis-2 consecutive reports,7.0,2004.0,float64,25105,0.5550028739443781,2,health_conditions
+r8arthre2,r8arthre2:w8 r ever had arthritis-2 consecutive reports,8.0,2006.0,float64,26765,0.5917009329265597,2,health_conditions
+r9arthre2,r9arthre2:w9 r ever had arthritis-2 consecutive reports,9.0,2008.0,float64,28017,0.6193792280143255,2,health_conditions
+r10arthre2,r10arthre2:w10 r ever had arthritis-2 consecutive reports,10.0,2010.0,float64,23200,0.5128885351726578,2,health_conditions
+r11arthre2,r11arthre2:w11 r ever had arthritis-2 consecutive reports,11.0,2012.0,float64,24680,0.5456072865543617,2,health_conditions
+r12arthre2,r12arthre2:w12 r ever had arthritis-2 consecutive reports,12.0,2014.0,float64,26487,0.5855551134102666,2,health_conditions
+r13arthre2,r13arthre2:w13 r ever had arthritis-2 consecutive reports,13.0,2016.0,float64,24322,0.5376928858823009,2,health_conditions
+r14arthre2,r14arthre2:w14 r ever had arthritis-2 consecutive reports,14.0,2018.0,float64,28088,0.6209488437900694,2,health_conditions
+r15arthre2,r15arthre2:w15 r ever had arthritis-2 consecutive reports,15.0,2020.0,float64,29511,0.6524074810982889,2,health_conditions
+r16arthre2,r16arthre2:w16 r ever had arthritis-2 consecutive reports,16.0,2022.0,float64,29378,0.6494672149268249,2,health_conditions
+r1condef,r1condef:w1 # chg from dispute/sum ever,1.0,1992.0,float64,32582,0.7202988902153248,6,health_conditions
+r2condef,r2condef:w2 # chg from dispute/sum ever,2.0,1994.0,float64,25592,0.5657691117301146,7,health_conditions
+r3condef,r3condef:w3 # chg from dispute/sum ever,3.0,1996.0,float64,27243,0.6022682053322722,7,health_conditions
+r4condef,r4condef:w4 # chg from dispute/sum ever,4.0,1998.0,float64,23850,0.527258257063271,7,health_conditions
+r5condef,r5condef:w5 # chg from dispute/sum ever,5.0,2000.0,float64,25656,0.5671839766547287,7,health_conditions
+r6condef,r6condef:w6 # chg from dispute/sum ever,6.0,2002.0,float64,27069,0.5984215413184772,6,health_conditions
+r7condef,r7condef:w7 # chg from dispute/sum ever,7.0,2004.0,float64,25105,0.5550028739443781,6,health_conditions
+r8condef,r8condef:w8 # chg from dispute/sum ever,8.0,2006.0,float64,26765,0.5917009329265597,6,health_conditions
+r9condef,r9condef:w9 # chg from dispute/sum ever,9.0,2008.0,float64,28017,0.6193792280143255,7,health_conditions
+r10condef,r10condef:w10 # chg from dispute/sum ever,10.0,2010.0,float64,23200,0.5128885351726578,7,health_conditions
+r11condef,r11condef:w11 # chg from dispute/sum ever,11.0,2012.0,float64,24680,0.5456072865543617,6,health_conditions
+r12condef,r12condef:w12 # chg from dispute/sum ever,12.0,2014.0,float64,26487,0.5855551134102666,5,health_conditions
+r13condef,r13condef:w13 # chg from dispute/sum ever,13.0,2016.0,float64,24322,0.5376928858823009,5,health_conditions
+r14condef,r14condef:w14 # chg from dispute/sum ever,14.0,2018.0,float64,28088,0.6209488437900694,6,health_conditions
+r15condef,r15condef:w15 # chg from dispute/sum ever,15.0,2020.0,float64,29511,0.6524074810982889,4,health_conditions
+r16condef,r16condef:w16 # chg from dispute/sum ever,16.0,2022.0,float64,29378,0.6494672149268249,3,health_conditions
+r1conde,r1conde:w1 sum of conditions ever had,1.0,1992.0,float64,32582,0.7202988902153248,8,health_conditions
+r2conde,r2conde:w2 sum of conditions ever had,2.0,1994.0,float64,25592,0.5657691117301146,8,health_conditions
+r3conde,r3conde:w3 sum of conditions ever had,3.0,1996.0,float64,27243,0.6022682053322722,9,health_conditions
+r4conde,r4conde:w4 sum of conditions ever had,4.0,1998.0,float64,23850,0.527258257063271,9,health_conditions
+r5conde,r5conde:w5 sum of conditions ever had,5.0,2000.0,float64,25656,0.5671839766547287,9,health_conditions
+r6conde,r6conde:w6 sum of conditions ever had,6.0,2002.0,float64,27069,0.5984215413184772,9,health_conditions
+r7conde,r7conde:w7 sum of conditions ever had,7.0,2004.0,float64,25105,0.5550028739443781,9,health_conditions
+r8conde,r8conde:w8 sum of conditions ever had,8.0,2006.0,float64,26765,0.5917009329265597,9,health_conditions
+r9conde,r9conde:w9 sum of conditions ever had,9.0,2008.0,float64,28017,0.6193792280143255,9,health_conditions
+r10conde,r10conde:w10 sum of conditions ever had,10.0,2010.0,float64,23200,0.5128885351726578,9,health_conditions
+r11conde,r11conde:w11 sum of conditions ever had,11.0,2012.0,float64,24680,0.5456072865543617,9,health_conditions
+r12conde,r12conde:w12 sum of conditions ever had,12.0,2014.0,float64,26487,0.5855551134102666,9,health_conditions
+r13conde,r13conde:w13 sum of conditions ever had,13.0,2016.0,float64,24322,0.5376928858823009,9,health_conditions
+r14conde,r14conde:w14 sum of conditions ever had,14.0,2018.0,float64,28088,0.6209488437900694,9,health_conditions
+r15conde,r15conde:w15 sum of conditions ever had,15.0,2020.0,float64,29511,0.6524074810982889,9,health_conditions
+r16conde,r16conde:w16 sum of conditions ever had,16.0,2022.0,float64,29378,0.6494672149268249,9,health_conditions
+h1atotb,h1atotb:w1 total of all assets--cross-wave,1.0,1992.0,float64,32582,0.7202988902153248,3423,economic
+h2atotb,h2atotb:w2 total of all assets--cross-wave,2.0,1994.0,float64,25592,0.5657691117301146,4369,economic
+h3atotb,h3atotb:w3 total of all assets--cross-wave,3.0,1996.0,float64,27243,0.6022682053322722,4359,economic
+h4atotb,h4atotb:w4 total of all assets--cross-wave,4.0,1998.0,float64,23850,0.527258257063271,5006,economic
+h5atotb,h5atotb:w5 total of all assets--cross-wave,5.0,2000.0,float64,25656,0.5671839766547287,4900,economic
+h6atotb,h6atotb:w6 total of all assets--cross-wave,6.0,2002.0,float64,27069,0.5984215413184772,4766,economic
+h7atotb,h7atotb:w7 total of all assets--cross-wave,7.0,2004.0,float64,25105,0.5550028739443781,5438,economic
+h8atotb,h8atotb:w8 total of all assets--cross-wave,8.0,2006.0,float64,26765,0.5917009329265597,5382,economic
+h9atotb,h9atotb:w9 total of all assets--cross-wave,9.0,2008.0,float64,28017,0.6193792280143255,5274,economic
+h10atotb,h10atotb:w10 total of all assets--cross-wave,10.0,2010.0,float64,23200,0.5128885351726578,5983,economic
+h11atotb,h11atotb:w11 total of all assets--cross-wave,11.0,2012.0,float64,24680,0.5456072865543617,5428,economic
+h12atotb,h12atotb:w12 total of all assets--cross-wave,12.0,2014.0,float64,26487,0.5855551134102666,5132,economic
+h13atotb,h13atotb:w13 total of all assets--cross-wave,13.0,2016.0,float64,24322,0.5376928858823009,5450,economic
+h14atotb,h14atotb:w14 total of all assets--cross-wave,14.0,2018.0,float64,28088,0.6209488437900694,4997,economic
+h15atotb,h15atotb:w15 total of all assets--cross-wave,15.0,2020.0,float64,29511,0.6524074810982889,4732,economic
+h16atotb,h16atotb:w16 total of all assets--cross-wave,16.0,2022.0,float64,29378,0.6494672149268249,6117,economic
+r1iearn,r1iearn:w1 income:r earnings,1.0,1992.0,float64,32582,0.7202988902153248,1070,economic
+h1itot,h1itot:w1 income: total hhold / r+sp only,1.0,1992.0,float64,32582,0.7202988902153248,3418,economic
+r2iearn,r2iearn:w2 income:r earnings,2.0,1994.0,float64,25592,0.5657691117301146,902,economic
+h2itot,h2itot:w2 income: total hhold / r+sp only,2.0,1994.0,float64,25592,0.5657691117301146,6528,economic
+r3iearn,r3iearn:w3 income:r earnings,3.0,1996.0,float64,27243,0.6022682053322722,661,economic
+h3itot,h3itot:w3 income: total hhold / r+sp only,3.0,1996.0,float64,27243,0.6022682053322722,7846,economic
+r4iearn,r4iearn:w4 income:r earnings,4.0,1998.0,float64,23850,0.527258257063271,803,economic
+h4itot,h4itot:w4 income: total hhold / r+sp only,4.0,1998.0,float64,23850,0.527258257063271,9050,economic
+r5iearn,r5iearn:w5 income:r earnings,5.0,2000.0,float64,25656,0.5671839766547287,685,economic
+h5itot,h5itot:w5 income: total hhold / r+sp only,5.0,2000.0,float64,25656,0.5671839766547287,8582,economic
+r6iearn,r6iearn:w6 income:r earnings,6.0,2002.0,float64,27069,0.5984215413184772,595,economic
+h6itot,h6itot:w6 income: total hhold / r+sp only,6.0,2002.0,float64,27069,0.5984215413184772,8168,economic
+r7iearn,r7iearn:w7 income:r earnings,7.0,2004.0,float64,25105,0.5550028739443781,814,economic
+h7itot,h7itot:w7 income: total hhold / r+sp only,7.0,2004.0,float64,25105,0.5550028739443781,9105,economic
+r8iearn,r8iearn:w8 income:r earnings,8.0,2006.0,float64,26765,0.5917009329265597,739,economic
+h8itot,h8itot:w8 income: total hhold / r+sp only,8.0,2006.0,float64,26765,0.5917009329265597,8575,economic
+r9iearn,r9iearn:w9 income:r earnings,9.0,2008.0,float64,28017,0.6193792280143255,704,economic
+h9itot,h9itot:w9 income: total hhold / r+sp only,9.0,2008.0,float64,28017,0.6193792280143255,8224,economic
+r10iearn,r10iearn:w10 income:r earnings,10.0,2010.0,float64,23200,0.5128885351726578,932,economic
+h10itot,h10itot:w10 income: total hhold / r+sp only,10.0,2010.0,float64,23200,0.5128885351726578,9627,economic
+r11iearn,r11iearn:w11 income:r earnings,11.0,2012.0,float64,24680,0.5456072865543617,778,economic
+h11itot,h11itot:w11 income: total hhold / r+sp only,11.0,2012.0,float64,24680,0.5456072865543617,9168,economic
+r12iearn,r12iearn:w12 income:r earnings,12.0,2014.0,float64,26487,0.5855551134102666,768,economic
+h12itot,h12itot:w12 income: total hhold / r+sp only,12.0,2014.0,float64,26487,0.5855551134102666,8875,economic
+r13iearn,r13iearn:w13 income:r earnings,13.0,2016.0,float64,24322,0.5376928858823009,935,economic
+h13itot,h13itot:w13 income: total hhold / r+sp only,13.0,2016.0,float64,24322,0.5376928858823009,9301,economic
+r14iearn,r14iearn:w14 income:r earnings,14.0,2018.0,float64,28088,0.6209488437900694,830,economic
+h14itot,h14itot:w14 income: total hhold / r+sp only,14.0,2018.0,float64,28088,0.6209488437900694,8225,economic
+r15iearn,r15iearn:w15 income:r earnings,15.0,2020.0,float64,29511,0.6524074810982889,771,economic
+h15itot,h15itot:w15 income: total hhold / r+sp only,15.0,2020.0,float64,29511,0.6524074810982889,7708,economic
+r16iearn,r16iearn:w16 income:r earnings,16.0,2022.0,float64,29378,0.6494672149268249,816,economic
+h16itot,h16itot:w16 income: total hhold / r+sp only,16.0,2022.0,float64,29378,0.6494672149268249,7988,economic
